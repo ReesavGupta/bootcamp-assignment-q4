@@ -42,5 +42,26 @@ There is no chemical element with the symbol HT. But depending on how you ask, t
 
 ## When Hallucination is a Feature
 
-Thus to summarize 
-Hallucinations becomes a feature when the task is creativity, idea genaration or language generation, not the acccuracy of the result.
+So, is this a flaw? Not always.
+It can be a feature when you are doing tasks that are not about factual accuracy, for example:
+
+    - Generating ideas
+ 
+    - Creative writing
+
+    - Brainstorming names, slogans, storylines
+
+    - Drafting emails, presentations, or poems
+
+    - Making up characters, scenes, jokes
+
+In the above is where the AI actually shines bright.
+
+## Final Thought 
+
+If you are only using AI or using it to build something, it becomes really important to udnerstand what LLM's actually do. They are not like google. They do not get the facts. But rather they generate fluent, statistically likely language.
+
+Hallucination isn’t always a mistake. Sometimes, it’s where the magic happens.
+
+
+***used chatgpt for spellings and grammar***
